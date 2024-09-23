@@ -2,7 +2,7 @@ import { Fragment, useState } from 'react';
 import data from './data';
 import cx from './cx';
 
-export default function Accordion5V() {
+export default function Accordion5() {
   return (
     <Fragment>
       <h3>
